@@ -4,5 +4,6 @@ good bye!
 line from user2
 line from user 1
 some new fitcher
+line from user 1 - lesson about rebase
 
 
